@@ -54,5 +54,8 @@ This repository contains the implementation of a visual servoing algorithm for a
 5. **Output:**
    - Record the locations (x, y coordinates) of all features over time during visual servoing.
    - Plot the trajectories of the features in the XY plane.
+  
+     [trial1.webm](https://github.com/upasana099/Vision-Based-Manipulation/assets/89516193/4f47f8d0-d8f3-4aa1-8ac3-487995a9e216)
+
 
 **Note:** Adjust parameters, gains, and other specifics based on your implementation details.
